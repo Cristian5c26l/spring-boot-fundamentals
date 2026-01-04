@@ -23,7 +23,7 @@ Follow these instructions to set up the project locally for development.
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Cristian5c26l/ProductSystem-API
    ```
 2. **Open the project:**
    Open the folder in your preferred IDE (IntelliJ IDEA is recommended).
