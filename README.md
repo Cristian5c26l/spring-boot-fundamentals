@@ -41,3 +41,11 @@ Follow these instructions to set up the project locally for development.
    ```bash
    ./mvnw spring-boot:run
    ```
+
+### 🧪 Running Tests
+
+To execute the unit tests and verify the system logic, run:
+
+```bash
+./mvnw test
+```
